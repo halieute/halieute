@@ -30,7 +30,7 @@ I'm **Souleymane Maman Nouri Souley**, an environmental scientist and researcher
 - Chlorophyll-a and primary productivity studies.  
 
 ## 📫 How to reach me:
-- Email: **souleymanemamannourisouley1995@gmail.com** or **souleymane,n#edu.wascal.org**  
+- Email: **souleymanemamannourisouley1995@gmail.com** or **souleymane,n@edu.wascal.org**  
 - LinkedIn: [Souleymane Maman Nouri Souley](www.linkedin.com/in/souleymanemamannourisouley)  
 
 ## 😄 Pronouns:
