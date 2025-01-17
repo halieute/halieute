@@ -31,7 +31,8 @@ I'm **Souleymane Maman Nouri Souley**, an environmental scientist and researcher
 
 ## 📫 How to reach me:
 - Email: **souleymanemamannourisouley1995@gmail.com** or **souleymane.m@edu.wascal.org**  
-- LinkedIn: [Souleymane Maman Nouri Souley](www.linkedin.com/in/souleymanemamannourisouley)  
+- LinkedIn: [Souleymane Maman Nouri Souley](www.linkedin.com/in/souleymanemamannourisouley)
+- Researchgate: [Souleymane Maman Nouri Souley](https://www.researchgate.net/profile/Souleymane-Mama-Nouri-Souley)
 
 ## 😄 Pronouns:
 - He/Him  
