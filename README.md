@@ -1,42 +1,13 @@
-## Hi there 👋
+# Souleymne Maman Nouri Souley
 
-# 👋 Hi there! Welcome to my GitHub profile!
+[![GitHub Badge](https://img.shields.io/github/followers/halieute?style=social)](https://github.com/halieute?tab=followers)
+[![Twitter Badge](https://img.shields.io/twitter/follow/NouriSoule22856?style=social)](https://twitter.com/NouriSoule22856)
+[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=ssHqsWQAAAAJ&hl=fr)
+[![ResearchGate Badge](https://img.shields.io/badge/ResearchGate-Profile-00CCBB)](https://www.researchgate.net/profile/Souleymane-Mama-Nouri-Souley)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/souleymanemamannourisouley)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=halieute.halieute)
 
-I'm **Souleymane Maman Nouri Souley**, an environmental scientist and researcher passionate about geospatial analysis, sustainable development, and ecological studies. 🌍🐟 
 
-## 🔭 I’m currently working on:
-- Investigating fish diversity and ecological dynamics. 🐠📊
-- Dust impact on the Cabo Verde Archipelago.  
-- Chlorophyll-a and water quality analysis in the Gulf of Guinea and Cabo Verde. 🌊  
-- Developing tools for drought monitoring and evapotranspiration analysis in arid regions. 🌵  
 
-## 🌱 I’m currently learning:
-- Advanced PyQGIS development to build geospatial tools. 🛠️  
-- Deepening my skills in Google Earth Engine for large-scale environmental monitoring. 🛰️  
-- Statistical modeling and visualization in R and Python for ecological studies. 📈  
 
-## 👯 I’m looking to collaborate on:
-- Biodiversity conservation projects in West Africa. 🐾  
-- Fisheries and aquatic ecosystem management initiatives. 🌊  
-- Remote sensing and GIS-based environmental analysis. 🗺️  
-
-## 🤔 I’m looking for help with:
-- Innovative approaches for length-frequency and weight-length analysis in fisheries data. 🐟  
-- Open datasets or tools for watershed analysis and biodiversity studies. 💡  
-
-## 💬 Ask me about:
-- Sustainable fisheries management in West Africa.  
-- QGIS plugin development and geospatial data analysis.  
-- Chlorophyll-a and primary productivity studies.  
-
-## 📫 How to reach me:
-- Email: **souleymanemamannourisouley1995@gmail.com** or **souleymane.m@edu.wascal.org**  
-- LinkedIn: [Souleymane Maman Nouri Souley](www.linkedin.com/in/souleymanemamannourisouley)
-- Researchgate: [Souleymane Maman Nouri Souley](https://www.researchgate.net/profile/Souleymane-Mama-Nouri-Souley)
-
-## 😄 Pronouns:
-- He/Him  
-
-## ⚡ Fun fact:
-I’m on a mission to bridge the gap between data science and environmental sustainability—one geospatial tool at a time! ✨  
-
+Souleymane Maman Nouri Souley is a geospatial and environmental researcher specializing in climate change, marine sciences, and sustainable development. He holds a Master’s degree in Environmental Assessment and Sustainable Development from the Higher Institute of Environment and Ecology, University of Diffa. Currently, he is pursuing a Master’s degree in Climate Change and Marine Sciences (MRP-CCMS) at The Atlantic Technical University, Cabo Verde, under the WASCAL Capacity Building Programme. His research focuses on geospatial analysis, remote sensing, and environmental monitoring, with applications in fish diversity, water quality, and climate variability in West African aquatic ecosystems. He actively works with Google Earth Engine, QGIS, and Python-based tools to analyze and visualize environmental data for sustainable resource management.
