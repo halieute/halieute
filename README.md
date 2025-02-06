@@ -5,7 +5,7 @@
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=ssHqsWQAAAAJ&hl=fr)
 [![ResearchGate Badge](https://img.shields.io/badge/ResearchGate-Profile-00CCBB)](https://www.researchgate.net/profile/Souleymane-Mama-Nouri-Souley)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/souleymanemamannourisouley)
-[![Facebook Badge](https://img.shields.io/badge/My-Facebook-blue)](https://www.facebook.com/share/1AowVSQmLT/)
+[![Facebook Badge](https://img.shields.io/badge/My-Facebook-blue)](https://www.facebook.com/souleymane.nouri.7)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=halieute.halieute)
 
 
