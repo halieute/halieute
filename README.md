@@ -13,7 +13,7 @@ Mr. Souleymane Maman Nouri Souley is a geospatial and environmental researcher s
 
 ---
 
-### Open-source Projects
+## Open-source Projects
 
 - **Linux:** [manjaro-linux](https://github.com/halieute)
 - **R packages:** [building](https://github.com/halieute)
@@ -22,7 +22,7 @@ Mr. Souleymane Maman Nouri Souley is a geospatial and environmental researcher s
 
 - ---
 
-### Technologies & Tools
+## Technologies & Tools
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -67,4 +67,4 @@ Mr. Souleymane Maman Nouri Souley is a geospatial and environmental researcher s
 ---
 
 
-### Latest Blog Posts
+## Latest Blog Posts
