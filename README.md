@@ -16,8 +16,8 @@ Mr. Souleymane Maman Nouri Souley is a geospatial and environmental researcher s
 ## Open-source Projects
 
 - **Linux:** [manjaro-linux](https://github.com/halieute)
-- **R packages:** [whitebox-tools](https://github.com/halieute/whitebox-tools)
-- **Python packages:** [openfreemap](https://github.com/halieute/openfreemap)
+- **R packages:**
+- **Python packages:** [openfreemap](https://github.com/halieute/openfreemap)  [whitebox-tools](https://github.com/halieute/whitebox-tools)
 - **Google Earth Engine:** [earthengine-apps](https://github.com/halieute)
 
 - ---
