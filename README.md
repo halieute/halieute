@@ -1,6 +1,6 @@
 # Souleymne Maman Nouri Souley
 
-[![GitHub Badge](https://img.shields.io/github/followers/halieute?style=social)](https://github.com/halieute?tab=followers)
+[![GitHub Badge](https://img.shields.io/github/followers/halieute?style=social)](https://github.com/halieute)
 [![Twitter Badge](https://img.shields.io/twitter/follow/NouriSoule22856?style=social)](https://twitter.com/NouriSoule22856)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=ssHqsWQAAAAJ&hl=fr)
 [![ResearchGate Badge](https://img.shields.io/badge/ResearchGate-Profile-00CCBB)](https://www.researchgate.net/profile/Souleymane-Mama-Nouri-Souley)
