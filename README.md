@@ -51,7 +51,7 @@ Mr. Souleymane Maman Nouri Souley is a geospatial and environmental researcher s
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![QGIS](https://qgis.org/img/logosign.svg" alt="qgis" width="40" height="40")](https://qgis.org)
+[<img src="https://qgis.org/img/logosign.svg" alt="QGIS" width="40" height="40">](https://qgis.org)
 
 
 ---
