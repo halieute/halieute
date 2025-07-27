@@ -1,5 +1,3 @@
-# Souleymne Maman Nouri Souley
-
 [![GitHub](https://img.shields.io/badge/GitHub-halieute-darkgrey?style=social&logo=github&logoColor=black)](https://github.com/halieute)
 [![GitHub Badge](https://img.shields.io/github/followers/halieute?style=social)](https://github.com/halieute?tab=followers)
 [![My Instagram](https://img.shields.io/badge/My-Instagram-DD2A7B?style=flat&logo=instagram&logoColor=DD2A7B&labelColor=444444)](https://instagram.com/soule9151)
