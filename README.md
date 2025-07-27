@@ -2,11 +2,17 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-ikalmalik-darkgrey?style=social&logo=github&logoColor=black)](https://github.com/halieute)
 [![GitHub Badge](https://img.shields.io/github/followers/halieute?style=social)](https://github.com/halieute?tab=followers)
+[![My Instagram](https://img.shields.io/badge/My-Instagram-DD2A7B?style=flat&logo=instagram&logoColor=DD2A7B&labelColor=444444)](https://instagram.com/soule9151)
+[![My Facebook](https://img.shields.io/badge/My-Facebook-1877F2?style=flat&logo=facebook&logoColor=1877F2&labelColor=444444)](https://facebook.com/souleymane.nouri.7)
 [![My X](https://img.shields.io/badge/My-X-000000?style=flat&logo=twitter&logoColor=white&labelColor=444444)](https://x.com/NouriSoule22856)
-[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=ssHqsWQAAAAJ&hl=fr)
+[![My LinkedIn](https://img.shields.io/badge/My-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=444444)](https://linkedin.com/in/souleymanemamannourisouley)
+[![My Telegram](https://img.shields.io/badge/My-Telegram-26A5E4?style=flat&logo=telegram&logoColor=26A5E4&labelColor=444444)](https://t.me/MSouleymane)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/Souleymane-Mama-Nouri-Souley)
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/souleymanemamannourisouley)
-[![Facebook Badge](https://img.shields.io/badge/My-Facebook-blue)](https://www.facebook.com/souleymane.nouri.7)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-9857-0392)
+[![Scopus](https://img.shields.io/badge/Scopus-222222?style=flat&logo=Elsevier&logoColor=orange)](https://www.scopus.com/authid/detail.uri?authorId=59412528200)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=ssHqsWQAAAAJ&hl=fr)
+[![RPubs](https://img.shields.io/badge/RPubs-276DC3?style=flat&logo=r&logoColor=white)](https://rpubs.com/halieute)
+[![ECMWF ERA5](https://img.shields.io/badge/ECMWF%20ERA5-2196F3?style=flat&logo=rainmeter&logoColor=white)](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels?tab=overview)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=halieute.halieute)
 
 
