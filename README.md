@@ -62,4 +62,9 @@ Mr. **Souleymane Maman Nouri Souley** is a geospatial and environmental research
 
 
 
-## Latest Blog Posts
+________________________________________________________________________________________________________________________________________________________
+**`Souleymane Maman Nouri Souley`**
+<br /> _WASCAL Cabo Verde Scholl, Institute of Engineering and Marine Sciences, Atlantic Technical University_
+<br /> souleymanemamannourisouley1995@gmail.com   souleymane.m@edu.wascal.org   ssouley@uta.cv
+<br /> [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](souleymanemamannourisouley1995@gmail.com)
+
