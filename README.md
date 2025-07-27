@@ -68,6 +68,7 @@ ________________________________________________________________________________
 <br /> souleymanemamannourisouley1995@gmail.com
 <br /> [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:souleymanemamannourisouley1995@gmail.com)
 <br /> souleymane.m@edu.wascal.org
+
 [![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:souleymane.m@edu.wascal.org)
 <br /> ssouley@uta.cv
 <br /> [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ssouley@uta.cv)
