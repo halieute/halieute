@@ -4,7 +4,7 @@
 [![GitHub Badge](https://img.shields.io/github/followers/halieute?style=social)](https://github.com/halieute?tab=followers)
 [![My X](https://img.shields.io/badge/My-X-000000?style=flat&logo=twitter&logoColor=white&labelColor=444444)](https://x.com/NouriSoule22856)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=ssHqsWQAAAAJ&hl=fr)
-[![ResearchGate Badge](https://img.shields.io/badge/ResearchGate-Profile-00CCBB)](https://www.researchgate.net/profile/Souleymane-Mama-Nouri-Souley)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/Souleymane-Mama-Nouri-Souley)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/souleymanemamannourisouley)
 [![Facebook Badge](https://img.shields.io/badge/My-Facebook-blue)](https://www.facebook.com/souleymane.nouri.7)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=halieute.halieute)
