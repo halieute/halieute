@@ -29,7 +29,7 @@ Mr. **Souleymane Maman Nouri Souley** is a geospatial and environmental research
 
 - ---
 
-## Technologies & Tools
+## 💻 Interested and Skills in Progress
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -53,18 +53,13 @@ Mr. **Souleymane Maman Nouri Souley** is a geospatial and environmental research
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=halieute&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=halieute&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=halieute&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-<a href="http://www.github.com/halieute"><img src="https://github-readme-stats.vercel.app/api?username=halieute&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="halieute's GitHub stats" /></a>
-
-<a href="http://www.github.com/halieute"><img src="https://github-readme-streak-stats.herokuapp.com/?user=halieute&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/halieute"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=halieute&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/halieute" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halieute&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
----
 
 
 ## Latest Blog Posts
