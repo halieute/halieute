@@ -33,7 +33,11 @@ Mr. **Souleymane Maman Nouri Souley** is a geospatial and environmental research
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFD700)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-34A853?style=for-the-badge&logo=googleearthengine&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-4479A1?style=for-the-badge&logo=esri&logoColor=white)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
@@ -44,7 +48,7 @@ Mr. **Souleymane Maman Nouri Souley** is a geospatial and environmental research
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [<img src="https://qgis.org/img/logosign.svg" alt="QGIS" width="40" height="40">](https://qgis.org)
-[![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-FFFFFF?style=for-the-badge&logo=google-earth&logoColor=00A776)](https://earthengine.google.com/)
+![Markdown](https://img.shields.io/badge/MARKDOWN-3C3C3D?style=for-the-badge&logo=markdown&logoColor=white)
 
 
 ---
